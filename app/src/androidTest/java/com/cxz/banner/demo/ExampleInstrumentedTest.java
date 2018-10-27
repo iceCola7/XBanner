@@ -1,4 +1,4 @@
-package com.cxz.xbanner.demo;
+package com.cxz.banner.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

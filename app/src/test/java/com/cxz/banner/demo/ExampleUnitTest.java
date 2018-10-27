@@ -1,4 +1,4 @@
-package com.cxz.xbanner.demo;
+package com.cxz.banner.demo;
 
 import org.junit.Test;
 
